@@ -1,0 +1,222 @@
+[
+    {
+        "title": "iPhone 11 Pro 64GB",
+        "price": 799.99,
+        "imageUrl": "https://www.magpiehq.com/images/iphone-11-pro.png",
+        "capacityMB": 64000,
+        "colour": "Green",
+        "availabilityText": "Out of Stock",
+        "isAvailable": false,
+        "shippingText": "Availability: Out of Stock",
+        "shippingDate": null
+    },
+    {
+        "title": "iPhone 11 64GB",
+        "price": 699.99,
+        "imageUrl": "https://www.magpiehq.com/images/iphone-11.png",
+        "capacityMB": 64000,
+        "colour": "Black",
+        "availabilityText": "In Stock",
+        "isAvailable": true,
+        "shippingText": "Unavailable for delivery",
+        "shippingDate": null
+    },
+    {
+        "title": "iPhone 11 64GB",
+        "price": 699.99,
+        "imageUrl": "https://www.magpiehq.com/images/iphone-11.png",
+        "capacityMB": 64000,
+        "colour": "White",
+        "availabilityText": "In Stock",
+        "isAvailable": true,
+        "shippingText": "Unavailable for delivery",
+        "shippingDate": null
+    },
+    {
+        "title": "iPhone 12 Pro Max 128GB",
+        "price": 1099.99,
+        "imageUrl": "https://www.magpiehq.com/images/iphone-12-pro.png",
+        "capacityMB": 128000,
+        "colour": "Sky Blue",
+        "availabilityText": "In Stock",
+        "isAvailable": true,
+        "shippingText": "Delivery by 2026-03-20",
+        "shippingDate": "2026-03-20"
+    },
+    {
+        "title": "Samsung Galaxy S20 128GB",
+        "price": 849.99,
+        "imageUrl": "https://www.magpiehq.com/images/s-20.png",
+        "capacityMB": 128000,
+        "colour": "Grey",
+        "availabilityText": "In Stock",
+        "isAvailable": true,
+        "shippingText": "Free Delivery 20 Mar 2026",
+        "shippingDate": "2026-03-20"
+    },
+    {
+        "title": "Huawei P30 Pro 128GB",
+        "price": 699.99,
+        "imageUrl": "https://www.magpiehq.com/images/p-30.png",
+        "capacityMB": 128000,
+        "colour": "Black",
+        "availabilityText": "In Stock",
+        "isAvailable": true,
+        "shippingText": "Free Shipping",
+        "shippingDate": null
+    },
+    {
+        "title": "Nokia 3310 100MB",
+        "price": 99.99,
+        "imageUrl": "https://www.magpiehq.com/images/nokia-3310.png",
+        "capacityMB": 100,
+        "colour": "Orange",
+        "availabilityText": "Out of Stock",
+        "isAvailable": false,
+        "shippingText": "Delivery from 18 Apr 2026",
+        "shippingDate": "2026-04-18"
+    },
+    {
+        "title": "Nokia 3310 100MB",
+        "price": 99.99,
+        "imageUrl": "https://www.magpiehq.com/images/nokia-3310.png",
+        "capacityMB": 100,
+        "colour": "Yellow",
+        "availabilityText": "Out of Stock",
+        "isAvailable": false,
+        "shippingText": "Delivery from 18 Apr 2026",
+        "shippingDate": "2026-04-18"
+    },
+    {
+        "title": "Nokia 3310 100MB",
+        "price": 99.99,
+        "imageUrl": "https://www.magpiehq.com/images/nokia-3310.png",
+        "capacityMB": 100,
+        "colour": "Grey",
+        "availabilityText": "Out of Stock",
+        "isAvailable": false,
+        "shippingText": "Delivery from 18 Apr 2026",
+        "shippingDate": "2026-04-18"
+    },
+    {
+        "title": "Nokia 3310 100MB",
+        "price": 99.99,
+        "imageUrl": "https://www.magpiehq.com/images/nokia-3310.png",
+        "capacityMB": 100,
+        "colour": "Blue",
+        "availabilityText": "Out of Stock",
+        "isAvailable": false,
+        "shippingText": "Delivery from 18 Apr 2026",
+        "shippingDate": "2026-04-18"
+    },
+    {
+        "title": "Google Pixel 5 256GB",
+        "price": 749.99,
+        "imageUrl": "https://www.magpiehq.com/images/pixel-5.png",
+        "capacityMB": 256000,
+        "colour": "Black",
+        "availabilityText": "In Stock",
+        "isAvailable": true,
+        "shippingText": "Delivers 2026-03-19",
+        "shippingDate": "2026-03-19"
+    },
+    {
+        "title": "Sony Xperia 10 32GB",
+        "price": 449.99,
+        "imageUrl": "https://www.magpiehq.com/images/sony-xperia.png",
+        "capacityMB": 32000,
+        "colour": "Black",
+        "availabilityText": "In Stock",
+        "isAvailable": true,
+        "shippingText": "Free Shipping",
+        "shippingDate": null
+    },
+    {
+        "title": "Samsung Galaxy Flip 128GB",
+        "price": 1699.99,
+        "imageUrl": "https://www.magpiehq.com/images/flip.png",
+        "capacityMB": 128000,
+        "colour": "Slate Grey",
+        "availabilityText": "Out of Stock",
+        "isAvailable": false,
+        "shippingText": "Availability: Out of Stock",
+        "shippingDate": null
+    },
+    {
+        "title": "Samsung Galaxy S20 128GB",
+        "price": 849.99,
+        "imageUrl": "https://www.magpiehq.com/images/s-20.png",
+        "capacityMB": 128000,
+        "colour": "Black",
+        "availabilityText": "In Stock",
+        "isAvailable": true,
+        "shippingText": "Free Delivery 20 Mar 2026",
+        "shippingDate": "2026-03-20"
+    },
+    {
+        "title": "Oppo Reno4 Pro 5G 64GB",
+        "price": 749.99,
+        "imageUrl": "https://www.magpiehq.com/images/oppo-reno.png",
+        "capacityMB": 64000,
+        "colour": "Blue",
+        "availabilityText": "In Stock",
+        "isAvailable": true,
+        "shippingText": "Free Delivery",
+        "shippingDate": null
+    },
+    {
+        "title": "Huawei P Smart 64GB",
+        "price": 399.99,
+        "imageUrl": "https://www.magpiehq.com/images/huawei-p-smart.png",
+        "capacityMB": 64000,
+        "colour": "Black",
+        "availabilityText": "In Stock",
+        "isAvailable": true,
+        "shippingText": "Free Delivery tomorrow",
+        "shippingDate": "2026-03-20"
+    },
+    {
+        "title": "Google Pixel 4 64GB",
+        "price": 499.99,
+        "imageUrl": "https://www.magpiehq.com/images/pixel-5.png",
+        "capacityMB": 64000,
+        "colour": "Black",
+        "availabilityText": "In Stock",
+        "isAvailable": true,
+        "shippingText": "Delivers Thursday 19th Mar 2026",
+        "shippingDate": "2026-03-19"
+    },
+    {
+        "title": "Google Pixel 4 64GB",
+        "price": 499.99,
+        "imageUrl": "https://www.magpiehq.com/images/pixel-5.png",
+        "capacityMB": 64000,
+        "colour": "White",
+        "availabilityText": "In Stock",
+        "isAvailable": true,
+        "shippingText": "Delivers Thursday 19th Mar 2026",
+        "shippingDate": "2026-03-19"
+    },
+    {
+        "title": "LG K42 128GB",
+        "price": 499.99,
+        "imageUrl": "https://www.magpiehq.com/images/lg-k42.png",
+        "capacityMB": 128000,
+        "colour": "Black",
+        "availabilityText": "In Stock",
+        "isAvailable": true,
+        "shippingText": "Order within 6 hours and have it 21 Mar 2026",
+        "shippingDate": "2026-03-21"
+    },
+    {
+        "title": "Samsung Galaxy S20 64GB",
+        "price": 799.99,
+        "imageUrl": "https://www.magpiehq.com/images/s-20.png",
+        "capacityMB": 64000,
+        "colour": "Grey",
+        "availabilityText": "In Stock",
+        "isAvailable": true,
+        "shippingText": "Free Delivery 20 Mar 2026",
+        "shippingDate": "2026-03-20"
+    }
+]
